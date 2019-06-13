@@ -29,8 +29,9 @@ A python script that is for temporary uses. WHID Devices Only Detected As Of Rig
 * Find 2 button YOU wish to utilize for such script!
 * Next input them like such "ctrl+shift"!
 
-# The Code
+# The CODE:
 ```
+# CODE BELOW: Imports the required prequisites/modules!
 from os import system
 import os
 import pynput
