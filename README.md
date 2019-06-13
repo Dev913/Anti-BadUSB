@@ -65,18 +65,18 @@ number = str(random.randint(1, 777))
 for i in range(999):
     time.sleep(delay)
     mouse.position = (999, 335)
-    # CODE BELOW: Runs COMMMAND "python find.py" and writes such output
-    # to "output.txt"
+# CODE BELOW: Runs COMMMAND "python find.py" and writes such output
+# to "output.txt"
     system('python find.py > output.txt')
-    # CODE BELOW: Repeats 99x
-    # then moves mouse to screen coords (999, 335)
+# CODE BELOW: Repeats 99x
+# then moves mouse to screen coords (999, 335)
     for i in range(999):
         mouse.position = (999, 335)
-    # CODE BELOW: Says if "Device" is found in "output.txt" then print
-    # "USB FOUND!" then will proceed to repeat again 999x in order to see
-    # devices are found and if such devices are found such script WILL proceed to
-    # Shutdown Computer! If USB is NOT found it will search again and wait for hidden exit
-    # to be initiated!
+ # CODE BELOW: Says if "Device" is found in "output.txt" then print
+ # "USB FOUND!" then will proceed to repeat again 999x in order to see
+ # devices are found and if such devices are found such script WILL proceed to
+ # Shutdown Computer! If USB is NOT found it will search again and wait for hidden exit
+ # to be initiated!
     if "Device" in open('output.txt').read():
         print('USB FOUND!')
         for i in range(999):
