@@ -2,7 +2,7 @@
 A python script that is for temporary uses. WHID Devices Only Detected As Of Right Now!
 
 # OS (Operating System)
-* Linux (All as far as i know!)
+* Linux (All Distrobutions as far as i know!)
 
 # Installation
 * RUN "python requirements.py" in order to install such prequisites!
