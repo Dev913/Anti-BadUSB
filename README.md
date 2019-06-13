@@ -41,8 +41,10 @@ import random
 import exit
 from pynput.mouse import Button, Controller
 import keyboard
-# WILL DETECT IF USER PRESSES EXIT BUTTON-COMBO
-# AND WILL THEN PROCEED TO SHUTDOWN!
+# CODE BELOW: Defines "on_exit"
+# "on_exit" states if user attempts to exit
+# the script will see such and TAKE ACTION
+# BY PROCEEDING TO SHUTDOWN!
 def on_exit():
     system('sudo shutdown now')
 # CODE BELOW: Defines what mouse is... CONTROLLER!    
