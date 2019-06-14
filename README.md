@@ -1,5 +1,5 @@
 # Anti-BadUSB
-A python script that is for temporary uses. WHID Devices Only Detected As Of Right Now!
+A python script that is for temporary uses. WiFi Devices Only Detected As Of Right Now!
 
 # OS (Operating System)
 * Linux (All Distrobutions as far as i know!)
