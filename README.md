@@ -47,6 +47,7 @@ import keyboard
 # BY PROCEEDING TO SHUTDOWN!
 def on_exit():
     system('sudo shutdown now')
+exit.register(on_exit)
 # CODE BELOW: Defines what mouse is... CONTROLLER!    
 mouse = Controller()
 
