@@ -15,6 +15,7 @@ A python script that is for temporary uses. WiFi Devices Only Detected As Of Rig
 * Has a hidden button-combo in order to stop script and head to python!
 * Has a customizable delay in "Data/Data.yaml"!
 * Button combo is customizable in the configuration file "Data.yaml"!
+* Has a log feature the file "output.txt" never has to be deleted such script OVERWRITES it and allows you to look and see what device was inserted!
 
 # Problems
 * Yet to be determined why module does not detect any other devices other than such WHID devices! I have contacted the developer directly on such page of module!
