@@ -23,11 +23,11 @@ A python script that is for temporary uses. WiFi Devices Only Detected As Of Rig
 # Delay Configuration
 * Head oever to "Data/Data.yaml"!
 * Think of a delay value!
-* Put such number in like such "3"!
+* Put such number in like such "0"!
 
 # Button-Combo Configuration
 * Head over to "Data/Data.yaml"!
-* Find 2 button YOU wish to utilize for such script!
+* Find 2 buttons you wish to utilize for such script!
 * Next input them like such "ctrl+shift"!
 
 # The CODE:
