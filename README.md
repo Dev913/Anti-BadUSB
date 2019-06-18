@@ -2,7 +2,7 @@
 A python script that is for temporary uses. WiFi Devices Only Detected As Of Right Now!
 
 # OS (Operating System)
-* Tested ON Kali Linux (Debian)
+* Debian
 
 # Installation
 * RUN "python requirements.py" in order to install such prequisites!
